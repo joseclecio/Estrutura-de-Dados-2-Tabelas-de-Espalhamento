@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/Fila.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/Pilha.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/hash/Hash.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/hash/HashAberto.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/hash/HashEncadeado.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/hash/chave/ChaveNumerica.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/hash/chave/ChaveTextual.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/hash/chave/EstrategiaChave.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/hash/colisao/ColisaoEncadeada.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/hash/colisao/ColisaoLinear.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/hash/colisao/EstrategiaColisao.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/hash/espalhamento/EspalhamentoDivisao.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/hash/espalhamento/EstrategiaEspalhamento.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/lista/Lista.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/lista/ListaDupla.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/lista/ListaSimples.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/lista/no/No.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/lista/no/NoDuplo.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/edu/ifs/ed2/dados/lista/no/NoSimples.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/test/br/edu/ifs/ed2/dados/TesteFila.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/test/br/edu/ifs/ed2/dados/TestePilha.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/test/br/edu/ifs/ed2/dados/hash/TesteHashAberto.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/test/br/edu/ifs/ed2/dados/hash/TesteHashEncadeado.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/test/br/edu/ifs/ed2/dados/hash/chave/TesteChaveNumerica.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/test/br/edu/ifs/ed2/dados/hash/chave/TesteChaveTextual.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/test/br/edu/ifs/ed2/dados/hash/colisao/TesteColisaoEncadeada.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/test/br/edu/ifs/ed2/dados/hash/colisao/TesteColisaoLinear.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/test/br/edu/ifs/ed2/dados/hash/espalhamento/TesteEspalhamentoDivisao.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/test/br/edu/ifs/ed2/dados/lista/TesteListaDupla.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/test/br/edu/ifs/ed2/dados/lista/TesteListaSimples.java" charset="windows-1252" />
+  </component>
+</project>
